@@ -1,6 +1,1 @@
-numpy
-matplotlib
-cvxopt
-pandas
-plotly
-cufflinks
+numpy matplotlib cvxopt pandas plotly cufflinks
