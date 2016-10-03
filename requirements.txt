@@ -1,0 +1,6 @@
+numpy
+matplotlib
+cvxopt
+pandas
+plotly
+cufflinks
